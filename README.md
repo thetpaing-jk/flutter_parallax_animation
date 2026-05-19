@@ -12,6 +12,10 @@ frame as the user scrolls.
 - Control layer movement with simple X/Y scroll speed values.
 - Works with `ImageProvider`, so assets, network images, and memory images are supported.
 
+## Preview
+
+![Parallax animation demo](screenshots/example.gif)
+
 ## Installation
 
 There are three common ways to use this package.
@@ -40,11 +44,9 @@ GitHub repository:
 dependencies:
   parallax_animation:
     git:
-      url: https://github.com/your-username/parallax_animation.git
+      url: https://github.com/withl/parallax_animation.git
       ref: main
 ```
-
-Replace `your-username` with the real GitHub username or organization.
 
 Then run:
 
@@ -150,3 +152,9 @@ flutter run
 
 The example demonstrates a CSS-inspired parallax landing scene where clouds,
 text, hills, and foreground plants move at different speeds as the page scrolls.
+
+To show the demo on GitHub, record the example app and save the GIF as:
+
+```txt
+screenshots/example.gif
+```
