@@ -1,0 +1,25 @@
+name: parallax_animation
+description: Scroll-driven parallax widgets for Flutter scenes, sections, and images.
+version: 0.0.1
+topics:
+  - parallax
+  - animation
+  - scroll
+  - flutter-ui
+
+environment:
+  sdk: ^3.10.7
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  assets:
+    - assets/

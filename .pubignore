@@ -1,0 +1,13 @@
+.dart_tool/
+.idea/
+*.iml
+build/
+coverage/
+pubspec.lock
+example/.dart_tool/
+example/.idea/
+example/build/
+example/android/.gradle/
+example/android/local.properties
+example/pubspec.lock
+example/*.iml
